@@ -53,7 +53,7 @@ After finalizing the analysis using Machine Learning Prediction Models. We came 
 ![image](https://github.com/NoeliaOriola/Employee_Attrition/assets/151629602/48582848-b7cc-4517-8223-0631e92fbf75)
 
 By using our prediction ML model, we could have identified in an early stage the 79% of our 237 attrited employees (187employees).
-Considering the employee attrition cost average (average 10-20K), by predicting the 187 employees, we could have save approximately 1,870,00EUR/$.
+Considering the employee attrition cost average (average 10-20K), by predicting the 187 employees, we could have saved approximately 1,870,00EUR/$.
 However we must identify if those attrited employees left voluntary or involuntary, if we could prevent them to leave.  
 
 After our analysis we came with some suggestions for our HR team, by reflecing on the missing data that would be crucial to enhance our prediciton accuracy as well as come up with some HR strategies to increase employees retention and save costs. 
